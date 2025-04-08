@@ -1,0 +1,13 @@
+.vs/
+*.vsidx
+*.user
+*.suo
+*.db
+*.VC.db
+*.opendb
+*.obj
+*.exe
+*.pdb
+*.log
+*.cache
+*.tlog
